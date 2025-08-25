@@ -12,7 +12,7 @@ const Sobre = () => (
       aliquam vitae.
     </Paragrafo>
     <GithubSecao>
-      <img src="https://github-readme-stats.vercel.app/api?username=cristianotobias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=EdwardEricV&show_icons=true&theme=dracula&count_private=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardEricV&layout=compact&langs_count=7&theme=dracula" />
     </GithubSecao>
   </section>
